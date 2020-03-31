@@ -1,11 +1,11 @@
 ## Hotel room manager web tool
 
-this Tool finds useful for a small hotel to manage its rooms.
+This Tool finds useful for a small hotel to manage its rooms.
 The user can Insert,Search one or get the entire list of the rooms written on the database.
 The db is stanced on firebase,and the backend can be found in the hrm-functions repo,consisted in cloud functions to execute requests.
 
 ### Why?
-This project was developed for learning apis and database mechanism,so it needs some improvements that will be committed in the next commits.
+This project was developed for learning apis and nosql database mechanism,so it needs some improvements that will be committed in the next commits.
 
 ### What i learnt
 i learnt how to build a stable backend with node.js and express.
